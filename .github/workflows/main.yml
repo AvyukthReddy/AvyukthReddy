@@ -1,10 +1,6 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Snake
 
-permissions:
-  contents: read
-  pages: write
-
 # Controls when the action will run.
 on:
   schedule:
