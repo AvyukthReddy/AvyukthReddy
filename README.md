@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=2000&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Avyukth!" alt="name" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=2000&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Hi+There!👋;I'm+Avyukth!" alt="name" />
 </h1>
 
 <h3 align="center">Software Engineer</h3>
@@ -23,10 +23,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" /><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,tailwind,bootstrap,flask" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgresql" /><br>
-  <img src="https://skillicons.dev/icons?i=github,postman,vscode" /><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" /></a><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,html,css,tailwind,bootstrap,flask" /></a><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgresql" /></a><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github,postman,vscode" /></a><br>
 </div>
 
 <br/>
@@ -35,7 +35,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AvyukthReddy/AvyukthReddy/output/github-contribution-grid-snake.svg" />
+  <a href="#"><img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AvyukthReddy/AvyukthReddy/output/github-contribution-grid-snake.svg" style="" /></a>
   
   <br/><br/><br/>
 </div>
@@ -45,9 +45,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=AvyukthReddy&theme=transparent" alt="GitHub Streak" /><br/>
+  <a href="#"><img width=390 src="https://streak-stats.demolab.com?user=AvyukthReddy&theme=transparent" alt="GitHub Streak" /></a><br/>
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AvyukthReddy&show_icons=true&theme=transparent&rank_icon=github" /><br />
+  <a href="#"><img width=390 src="https://github-readme-stats.vercel.app/api?username=AvyukthReddy&show_icons=true&theme=transparent&rank_icon=github" /></a><br /><
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 </div>
 
