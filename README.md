@@ -45,7 +45,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="#"><img width=390 src="https://streak-stats.demolab.com?user=AvyukthReddy&theme=transparent" alt="GitHub Streak" /></a><br/>
+  <a href="#"><img width=390 src="https://streak-stats-github.vercel.app?user=AvyukthReddy&theme=transparent" alt="GitHub Streak" /></a><br/>
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
   <a href="#"><img width=390 src="https://github-readme-stats.vercel.app/api?username=AvyukthReddy&show_icons=true&theme=transparent&rank_icon=github" /></a><br />
   <!-- https://github.com/anuraghazra/github-readme-stats -->
