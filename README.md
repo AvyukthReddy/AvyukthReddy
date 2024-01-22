@@ -24,9 +24,9 @@
 <br/>
 <div align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" /></a><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,html,css,tailwind,bootstrap,flask" /></a><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,html,css,tailwind,bootstrap" /></a><br>
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgresql" /></a><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github,postman,vscode" /></a><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github,postman,docker,vscode" /></a><br>
 </div>
 
 <br/>
