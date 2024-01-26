@@ -31,16 +31,15 @@
 
 <br/>
 <hr/>
-
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <a href="#"><img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AvyukthReddy/AvyukthReddy/output/github-contribution-grid-snake.svg" style="" /></a>
-  
   <br/><br/><br/>
 </div>
-
 <hr/>
+-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
